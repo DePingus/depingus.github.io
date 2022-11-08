@@ -8,13 +8,14 @@
     <language>en-us</language><atom:link href="https://depingus.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://depingus.github.io/about/about/</link>
+      <link>https://depingus.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://depingus.github.io/about/about/</guid>
+      <guid>https://depingus.github.io/about/</guid>
       <description>About Test we are sentient together</description>
       <content>&lt;h1 id=&#34;about-test&#34;&gt;About Test&lt;/h1&gt;
 &lt;p&gt;we are sentient together&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Mastodon&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 </content>
     </item>
     
